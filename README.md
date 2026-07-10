@@ -3,6 +3,9 @@
 A machine learning-powered movie recommendation system that combines **Content-Based Filtering** and **Collaborative Filtering** into a single **Hybrid Recommender**, served through a custom **HTML/CSS/JavaScript** web interface with live movie posters — all trainable and runnable directly from **Google Colab** and shared instantly via **ngrok**.
 
 
+<img width="1547" height="876" alt="image" src="https://github.com/user-attachments/assets/a99eee79-214b-4b75-9c2e-8c64b7ff6010" />
+
+
 ---
 
 ## Short Description
