@@ -1,4 +1,4 @@
-# 🎬 Hybrid Movie Recommendation System
+# 🎬 Movie Recommendation System
 
 A machine learning-powered movie recommendation system that combines **Content-Based Filtering** and **Collaborative Filtering** into a single **Hybrid Recommender**, served through a custom **HTML/CSS/JavaScript** web interface with live movie posters — all trainable and runnable directly from **Google Colab** and shared instantly via **ngrok**.
 
